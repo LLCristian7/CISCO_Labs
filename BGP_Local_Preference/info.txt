@@ -1,0 +1,2 @@
+Template Router: Cisco IOSv 15.6(2)T
+Disk Image: virtioa_L3.qcow2
